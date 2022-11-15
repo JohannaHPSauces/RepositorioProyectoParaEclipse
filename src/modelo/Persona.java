@@ -2,7 +2,6 @@ package modelo;
 
 public class Persona {
 	private String nombre;
-	private int edad;
 
 	public Persona(String nombre) {
 		super();
